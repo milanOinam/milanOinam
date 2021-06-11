@@ -2,8 +2,10 @@
 I am Milanchand Oinam from Imphal, Manipur
 x-special/nautilus-clipboard
 copy
-file:///home/milan/Downloads/milanfield.jpeg
-![milanfield](https://user-images.githubusercontent.com/66784765/121661419-cd7dba80-cac1-11eb-8ce8-f8be6642fdf1.jpeg)
+file:///home/milan/Downloads/milanoinamfield.jpg
+![milanoinamfield](https://user-images.githubusercontent.com/66784765/121662607-2dc12c00-cac3-11eb-9f27-a8e21b090af7.jpg)
+
+
 
 <!--
 **milanoinam/milanoinam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
