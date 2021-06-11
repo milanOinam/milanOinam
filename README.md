@@ -1,15 +1,9 @@
-
-![milanoinamphoto](https://user-images.githubusercontent.com/66784765/121668664-26048600-cac9-11eb-8c81-46e5debe2521.jpg)
-
-
-
+![milanphoto](https://user-images.githubusercontent.com/66784765/121669019-85629600-cac9-11eb-8653-90c96fd72f8a.jpg)
 ## Hi there 👋 , I am Milanchand Oinam from Imphal, Manipur
 
 <!--
 **milanoinam/milanoinam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-
 - LOOKING FOR FRIENDS WITH TECHNICAL SKILLS FROM NORTH EAST INDIA WITH HIGH WILL AND DESIRE TO START A TECH COMPANY THAT WILL
 
         increase the awareness of modern technologies among NE people
