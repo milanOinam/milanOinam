@@ -14,7 +14,7 @@
         change the face of technology and innovations in the North East
 
 - 🔭 I’m currently working on some mini-projects
-- 🌱 I’m currently learning full stack web development
+
 - 👯 I’m looking to collaborate on building innovative edTech projects :)
 
 - 📫 How to reach me: mcoinam01@gmail.com
