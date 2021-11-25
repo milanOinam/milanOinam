@@ -17,5 +17,5 @@
 
 - 👯 I’m looking to collaborate on building innovative edTech projects :)
 
-- 📫 How to reach me: mcoinam01@gmail.com
+
 
