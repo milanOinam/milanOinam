@@ -7,15 +7,5 @@
 <!--
 **milanoinam/milanoinam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- LOOKING FOR FRIENDS WITH TECHNICAL SKILLS FROM NORTH EAST INDIA 
-  WITH HIGH WILL AND DESIRE TO START A TECH COMPANY THAT WILL
-
-        increase the awareness of modern technologies among NE people
-        change the face of technology and innovations in the North East
-
-- 🔭 I’m currently working on some mini-projects
-
-- 👯 I’m looking to collaborate on building innovative edTech projects :)
-
 
 
